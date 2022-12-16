@@ -1,1 +1,1 @@
-Predict('TSLA', 'Open')
+from datetime import *
