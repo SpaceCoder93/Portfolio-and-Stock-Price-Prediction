@@ -1,1 +1,1 @@
-from sklearn.preprocessing import MinMaxScaler
+from keras.models import Sequential
