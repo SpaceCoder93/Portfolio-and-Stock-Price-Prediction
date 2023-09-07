@@ -1,1 +1,1 @@
-from bs4 import BeautifulSoup
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
