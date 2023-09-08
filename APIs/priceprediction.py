@@ -1,1 +1,1 @@
-from nltk.sentiment.vader import SentimentIntensityAnalyzer
+class Predict:
