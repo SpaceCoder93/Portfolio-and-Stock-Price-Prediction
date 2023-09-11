@@ -1,1 +1,1 @@
-        global date, time
+        news_tables = {}
