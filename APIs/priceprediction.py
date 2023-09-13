@@ -1,1 +1,1 @@
-        finviz_url = 'https://finviz.com/quote.ashx?t='
+        url = finviz_url + ticker_id
