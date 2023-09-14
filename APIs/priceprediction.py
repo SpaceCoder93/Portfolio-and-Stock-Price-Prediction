@@ -1,1 +1,1 @@
-        url = finviz_url + ticker_id
+        req = Request(url=url, headers={'user-agent': 'my-app'})
