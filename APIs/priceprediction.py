@@ -1,1 +1,1 @@
-        response = urlopen(req)
+        html = BeautifulSoup(response, 'html')
