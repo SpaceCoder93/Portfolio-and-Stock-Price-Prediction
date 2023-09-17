@@ -1,1 +1,1 @@
-        html = BeautifulSoup(response, 'html')
+        news_table = html.find(id='news-table')
