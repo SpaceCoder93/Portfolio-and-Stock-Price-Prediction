@@ -1,1 +1,1 @@
-        news_table = html.find(id='news-table')
+        news_tables[ticker_id] = news_table
