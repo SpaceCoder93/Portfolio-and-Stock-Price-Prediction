@@ -1,1 +1,1 @@
-        news_tables[ticker_id] = news_table
+        web_data = news_tables[ticker_id]
