@@ -1,1 +1,1 @@
-        web_data = news_tables[ticker_id]
+        web_data_rows = web_data.findAll('tr')
