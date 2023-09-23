@@ -1,1 +1,1 @@
-        for ticker, news_table in news_tables.items():
+            for row in news_table.findAll('tr'):
