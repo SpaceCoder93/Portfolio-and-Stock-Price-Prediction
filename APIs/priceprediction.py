@@ -1,1 +1,1 @@
-            for row in news_table.findAll('tr'):
+                web_title = row.a.get_text()
