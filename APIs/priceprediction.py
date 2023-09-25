@@ -1,1 +1,1 @@
-                web_title = row.a.get_text()
+                web_date_data = row.td.text.split(' ')
