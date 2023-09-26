@@ -1,1 +1,1 @@
-                web_date_data = row.td.text.split(' ')
+                if len(web_date_data) == 1:
