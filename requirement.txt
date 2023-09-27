@@ -1,0 +1,8 @@
+pillow
+bs4
+pandas
+nltk
+numpy
+pandas-datareader
+scikit-learn
+tensorflow
