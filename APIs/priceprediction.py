@@ -1,1 +1,1 @@
-                if len(web_date_data) == 1:
+                    time = web_date_data[0]
