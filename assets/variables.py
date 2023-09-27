@@ -1,0 +1,3 @@
+BG_COLOR: ""
+FG_COLOR: ""
+ACC_COLOR: ""
