@@ -7,3 +7,5 @@ pandas-datareader
 scikit-learn
 tensorflow
 flask
+matplotlib
+keras
