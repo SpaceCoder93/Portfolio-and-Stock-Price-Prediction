@@ -1,1 +1,1 @@
-                    time = web_date_data[1]
+                parse.append([ticker, date, time, web_title])
