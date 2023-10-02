@@ -1,1 +1,1 @@
-                parse.append([ticker, date, time, web_title])
+        web_df = pd.DataFrame(parse, columns=['ticker', 'date', 'time', 'title'])
