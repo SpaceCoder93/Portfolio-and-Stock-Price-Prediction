@@ -1,1 +1,1 @@
-        lam_fun = lambda title: vader.polarity_scores(title)['compound']
+        web_df['compound'] = web_df['title'].apply(lam_fun)
