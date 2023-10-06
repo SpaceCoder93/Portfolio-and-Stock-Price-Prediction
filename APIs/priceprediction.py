@@ -1,1 +1,1 @@
-        web_df['compound'] = web_df['title'].apply(lam_fun)
+        mean_final = web_df['compound'].mean()
