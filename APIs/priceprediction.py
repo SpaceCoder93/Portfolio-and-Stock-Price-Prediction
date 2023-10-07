@@ -1,1 +1,1 @@
-        mean_final = web_df['compound'].mean()
+        start_date = dt.datetime(2000, 1, 1)
