@@ -1,1 +1,1 @@
-        now = datetime.now()
+        year = now.strftime('%Y')
