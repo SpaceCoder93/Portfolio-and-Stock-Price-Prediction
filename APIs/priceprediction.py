@@ -1,1 +1,1 @@
-        year = now.strftime('%Y')
+        month = now.strftime('%m')
