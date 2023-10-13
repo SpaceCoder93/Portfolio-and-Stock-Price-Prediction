@@ -1,1 +1,1 @@
-        end_date = f'{year}, {month}, {day}'
+        past_days = int(30)
