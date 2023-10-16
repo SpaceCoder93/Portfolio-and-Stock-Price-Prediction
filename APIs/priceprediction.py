@@ -1,1 +1,1 @@
-        scalar = MinMaxScaler(feature_range=(0,1))
+        scaled_data = scalar.fit_transform(data[parameter].values.reshape(-1,1))
