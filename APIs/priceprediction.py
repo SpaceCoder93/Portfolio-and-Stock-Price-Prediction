@@ -1,1 +1,1 @@
-        for x in range(past_days, len(scaled_data)):
+                x_train.append(scaled_data[x-past_days:x, 0])
