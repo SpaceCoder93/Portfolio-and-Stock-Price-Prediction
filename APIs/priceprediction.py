@@ -1,1 +1,1 @@
-                x_train.append(scaled_data[x-past_days:x, 0])
+                y_train.append(scaled_data[x, 0])
