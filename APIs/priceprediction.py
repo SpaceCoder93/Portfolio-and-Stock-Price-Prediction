@@ -1,1 +1,1 @@
-                y_train.append(scaled_data[x, 0])
+        x_train, y_train = np.array(x_train), np.array(y_train)
