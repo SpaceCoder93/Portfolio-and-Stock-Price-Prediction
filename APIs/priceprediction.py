@@ -1,1 +1,1 @@
-        training_model.add(LSTM(units=50, return_sequences=True))
+        training_model.add(Dropout(0.2))
