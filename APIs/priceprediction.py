@@ -1,1 +1,1 @@
-        training_model.add(Dense(units=1))
+        training_model.compile(optimizer = 'adam', loss = 'mean_squared_error')
