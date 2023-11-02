@@ -1,1 +1,1 @@
-        training_model.compile(optimizer = 'adam', loss = 'mean_squared_error')
+        training_model.fit(x_train, y_train, epochs=30, batch_size=32)
