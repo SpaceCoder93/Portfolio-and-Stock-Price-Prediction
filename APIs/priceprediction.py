@@ -1,1 +1,1 @@
-        total_dataset = pd.concat((data['Close'], test_data[parameter]), axis=0)
+        model_input = total_dataset[len(total_dataset) - len(test_data) - past_days:].values
