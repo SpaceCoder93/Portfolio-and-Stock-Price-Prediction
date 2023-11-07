@@ -1,1 +1,1 @@
-        model_input = total_dataset[len(total_dataset) - len(test_data) - past_days:].values
+        model_inputs = model_input.reshape(-1, 1)
