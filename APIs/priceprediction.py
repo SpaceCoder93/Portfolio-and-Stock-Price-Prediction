@@ -1,1 +1,1 @@
-        model_inputs = model_input.reshape(-1, 1)
+        model_input = scalar.transform(model_inputs)
