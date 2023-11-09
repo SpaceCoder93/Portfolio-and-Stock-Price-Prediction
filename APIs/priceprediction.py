@@ -1,1 +1,1 @@
-        model_input = scalar.transform(model_inputs)
+        x_test = []
