@@ -1,1 +1,1 @@
-        for x in range(past_days, len(model_input)):
+                x_test.append(model_input[x-past_days:x, 0])
