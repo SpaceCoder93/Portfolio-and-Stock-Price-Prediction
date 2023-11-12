@@ -1,1 +1,1 @@
-                x_test.append(model_input[x-past_days:x, 0])
+        x_test = np.array(x_test)
