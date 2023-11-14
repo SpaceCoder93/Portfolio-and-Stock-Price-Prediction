@@ -1,1 +1,1 @@
-        x_test = np.reshape(x_test, (x_test.shape[0], x_test.shape[1], 1))
+        predicted_prices = training_model.predict(x_test)
