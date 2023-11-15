@@ -1,1 +1,1 @@
-        predicted_prices = training_model.predict(x_test)
+        predicted_prices = scalar.inverse_transform(predicted_prices)
