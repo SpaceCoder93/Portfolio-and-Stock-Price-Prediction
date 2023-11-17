@@ -1,1 +1,1 @@
-        plt.plot(actual_prices, color='black', label=f'Actual {ticker_id} Price')
+        plt.plot(predicted_prices, color='green', label=f'Predicted {ticker_id} Price')
