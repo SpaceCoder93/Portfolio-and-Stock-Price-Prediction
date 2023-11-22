@@ -1,1 +1,1 @@
-        plt.legend()
+        plt.show()
