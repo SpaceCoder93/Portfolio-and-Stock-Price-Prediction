@@ -1,1 +1,1 @@
-        quote = web.DataReader(ticker_id, 'yahoo', start_date, end_date)
+        df_scalar = MinMaxScaler(feature_range=(0,1))
