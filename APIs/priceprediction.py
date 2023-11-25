@@ -1,1 +1,1 @@
-        df_scalar = MinMaxScaler(feature_range=(0,1))
+        df_scaled_data = df_scalar.fit_transform(data[parameter].values.reshape(-1,1))
