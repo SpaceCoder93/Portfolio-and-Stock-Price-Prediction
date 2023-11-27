@@ -1,1 +1,1 @@
-        df_x_test = [df_scaled_data]
+        df_x_test = np.array(x_test)
