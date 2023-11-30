@@ -1,1 +1,1 @@
-        predict = training_model.predict(df_x_test)
+        predict = df_scalar.inverse_transform(predict)
