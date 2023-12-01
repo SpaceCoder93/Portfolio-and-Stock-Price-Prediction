@@ -1,1 +1,1 @@
-        predict = df_scalar.inverse_transform(predict)
+        count = int(0)
