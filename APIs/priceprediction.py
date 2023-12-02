@@ -1,1 +1,1 @@
-        count = int(0)
+        length = len(predict)
