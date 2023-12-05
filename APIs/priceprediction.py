@@ -1,1 +1,1 @@
-        while count < length:
+                initial = predict[count][0]
