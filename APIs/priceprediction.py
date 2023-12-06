@@ -1,1 +1,1 @@
-                initial = predict[count][0]
+                count = count + 1
