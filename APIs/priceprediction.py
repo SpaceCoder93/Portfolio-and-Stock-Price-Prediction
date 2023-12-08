@@ -1,1 +1,1 @@
-                dataframe_list.append(initial)
+        df = pd.DataFrame(dataframe_list, columns=['price'])
