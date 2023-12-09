@@ -1,1 +1,1 @@
-        df = pd.DataFrame(dataframe_list, columns=['price'])
+        top = df['price'].nlargest(n=40).mean()
