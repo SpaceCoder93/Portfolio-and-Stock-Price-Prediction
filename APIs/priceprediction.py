@@ -1,1 +1,1 @@
-        top = df['price'].nlargest(n=40).mean()
+        a = float(top)
