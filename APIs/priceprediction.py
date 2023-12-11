@@ -1,1 +1,1 @@
-        a = float(top)
+        b= float(mean_final)
