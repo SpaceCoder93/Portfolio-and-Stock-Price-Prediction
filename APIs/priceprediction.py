@@ -1,1 +1,1 @@
-        b= float(mean_final)
+        c = float(a * b)
