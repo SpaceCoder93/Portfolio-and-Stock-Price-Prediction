@@ -5,9 +5,9 @@ matplotlib
 nltk
 numpy
 pandas
-pandas-datareader
 pillow
 scikit-learn
 supabase
 tensorflow
-yahoo_fin
+pyarrow
+yfinance
